@@ -1,5 +1,5 @@
 Pipe = Class{}
---more memory efficient
+
 local PIPE_IMAGE = love.graphics.newImage('pipe.png')
 
 PIPE_SPEED = 60

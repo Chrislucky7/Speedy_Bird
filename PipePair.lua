@@ -1,6 +1,5 @@
 PipePair = Class{}
 
---make randomized? 
 local GAP_HEIGHT = 90
 
 function PipePair:init(y)
